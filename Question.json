@@ -1,0 +1,46 @@
+[
+    {
+      "question":"Q1 - Which type of JavaScript language is ___?",
+      
+      "a": "Object-Oriented",
+      "b": "Object-Based",
+      "c": "Assembly-language",
+      "d": "High-level",
+      "correct": "b"
+    },
+    {
+      "question": "Q2 - Which of the following type of variable is visible everywhere in your JavaScript code?",
+      "a": "global variable",
+      "b": "Immediate feedback to the visitors",
+      "c": "Increased interactivity",
+      "d": "All of the above.",
+      "correct": "a"
+    },
+    {
+      "question": "Q3 - Which built-in method removes the last element from an array and returns that element?",
+  
+      "a": "last()",
+      "b": "get()",
+      "c": "pop()",
+      "d": "None of the above.",
+      "correct": "c"
+    },
+    {
+      "question": "Q4 - Which built-in method returns the string representation of the number's value?",
+  
+      "a": "toValue()",
+      "b": "toString()",
+      "c": "toNumber()",
+      "d": "None of the above.",
+      "correct": "b"
+    },
+    {
+      "question": "Q5 -In the JavaScript, which one of the following is not considered as an error?",
+  
+      "a": "Syntax error",
+      "b": "Missing of semicolons",
+      "c": "Division by zero",
+      "d": "Missing of Bracket",
+      "correct": "c"
+    }
+]
